@@ -29,10 +29,34 @@ Version actuelle : **1.5.0**.
 
 ## 📸 Captures
 
-<!-- Ajoute tes captures dans le dossier captures/ puis référence-les ici -->
-| Accueil | Chaînes | Guide (EPG) |
-|---|---|---|
-| ![Accueil](captures/accueil.png) | ![Chaînes](captures/chaines.png) | ![EPG](captures/epg.png) |
+### Premier lancement — restauration Drive-first
+Au démarrage, LumeTV propose d'abord de **restaurer ta configuration depuis Google Drive**,
+sinon de configurer une source manuellement, ou d'explorer l'app pour l'instant.
+
+![Écran d'accueil](captures/accueil.png)
+
+### Ajout d'une source
+Trois façons d'ajouter une source : **URL M3U**, **Xtream**, ou fichier local.
+
+![Ajout d'une source](captures/ajout-source.png)
+
+### Quand aucune source n'est configurée
+Un écran clair avec un raccourci pour ajouter une source ou ouvrir les réglages.
+
+![Aucune chaîne](captures/demarrage.png)
+
+### Réglages
+Apparence (thèmes AMOLED / Sombre / Clair / Système), lecture, contrôle parental,
+sources, sauvegarde Drive, guide TV.
+
+![Réglages](captures/reglages.png)
+
+### À propos
+Version de l'app et recherche de mises à jour intégrée.
+
+![À propos](captures/apropos.png)
+
+> 🖼️ Les écrans **Chaînes** et **Guide (EPG)** seront ajoutés prochainement (avec une source active).
 
 ## 🛠️ Installation
 
