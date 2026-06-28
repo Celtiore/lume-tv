@@ -24,39 +24,51 @@ Version actuelle : **1.5.0**.
 - 🙈 **Masquage** de catégories / chaînes
 - 🔒 **Contrôle parental** par code PIN
 - 🎚️ **Réglages lecture** : ratio, sous-titres, tampon, sortie audio
-- 🔄 **Mises à jour intégrées** (selon configuration)
-- ☁️ **Sauvegarde Google Drive** *(voir limite ci-dessous)*
+- 🔄 **Mises à jour intégrées** (depuis les Releases GitHub)
+- ☁️ **Sauvegarde Google Drive** (dossier privé de l'app, tout compte Google)
 
 ## 📸 Captures
 
-### Premier lancement — restauration Drive-first
-Au démarrage, LumeTV propose d'abord de **restaurer ta configuration depuis Google Drive**,
-sinon de configurer une source manuellement, ou d'explorer l'app pour l'instant.
+![Aperçu de LumeTV](captures/mosaique.png)
 
-![Écran d'accueil](captures/accueil.png)
+<table>
+  <tr>
+    <td align="center" width="333">
+      <a href="captures/accueil.png"><img src="captures/accueil.png" width="280" alt="Accueil Drive-first"></a><br>
+      <b>Accueil Drive‑first</b><br>
+      <sub>Restaurer depuis Drive, ajouter une source, ou explorer</sub>
+    </td>
+    <td align="center" width="333">
+      <a href="captures/chaines.png"><img src="captures/chaines.png" width="280" alt="Chaînes"></a><br>
+      <b>Chaînes</b><br>
+      <sub>Catégories · liste · aperçu en direct</sub>
+    </td>
+    <td align="center" width="333">
+      <a href="captures/ajout-source.png"><img src="captures/ajout-source.png" width="280" alt="Ajout d'une source"></a><br>
+      <b>Ajouter une source</b><br>
+      <sub>URL M3U · Xtream · fichier local</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="captures/reglages.png"><img src="captures/reglages.png" width="280" alt="Réglages"></a><br>
+      <b>Réglages</b><br>
+      <sub>Apparence · lecture · parental · Drive</sub>
+    </td>
+    <td align="center">
+      <a href="captures/demarrage.png"><img src="captures/demarrage.png" width="280" alt="Sans source"></a><br>
+      <b>Sans source</b><br>
+      <sub>Raccourci pour démarrer</sub>
+    </td>
+    <td align="center">
+      <a href="captures/apropos.png"><img src="captures/apropos.png" width="280" alt="À propos"></a><br>
+      <b>À propos</b><br>
+      <sub>Version + mises à jour intégrées</sub>
+    </td>
+  </tr>
+</table>
 
-### Ajout d'une source
-Trois façons d'ajouter une source : **URL M3U**, **Xtream**, ou fichier local.
-
-![Ajout d'une source](captures/ajout-source.png)
-
-### Quand aucune source n'est configurée
-Un écran clair avec un raccourci pour ajouter une source ou ouvrir les réglages.
-
-![Aucune chaîne](captures/demarrage.png)
-
-### Réglages
-Apparence (thèmes AMOLED / Sombre / Clair / Système), lecture, contrôle parental,
-sources, sauvegarde Drive, guide TV.
-
-![Réglages](captures/reglages.png)
-
-### À propos
-Version de l'app et recherche de mises à jour intégrée.
-
-![À propos](captures/apropos.png)
-
-> 🖼️ Les écrans **Chaînes** et **Guide (EPG)** seront ajoutés prochainement (avec une source active).
+> 🗓️ Le **Guide (EPG)** sera ajouté après une passe de polish (M18).
 
 ## 🛠️ Installation
 
