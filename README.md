@@ -44,17 +44,29 @@ Version actuelle : **1.5.0**.
       <sub>Catégories · liste · aperçu en direct</sub>
     </td>
     <td align="center" width="333">
+      <a href="captures/epg.png"><img src="captures/epg.png" width="280" alt="Guide EPG"></a><br>
+      <b>Guide (EPG)</b><br>
+      <sub>Grille · filtre catégorie · ligne « maintenant »</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="captures/epg-fiche.png"><img src="captures/epg-fiche.png" width="280" alt="Fiche programme"></a><br>
+      <b>Fiche programme</b><br>
+      <sub>Synopsis · horaires · « Regarder »</sub>
+    </td>
+    <td align="center">
       <a href="captures/ajout-source.png"><img src="captures/ajout-source.png" width="280" alt="Ajout d'une source"></a><br>
       <b>Ajouter une source</b><br>
       <sub>URL M3U · Xtream · fichier local</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="captures/reglages.png"><img src="captures/reglages.png" width="280" alt="Réglages"></a><br>
       <b>Réglages</b><br>
       <sub>Apparence · lecture · parental · Drive</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="captures/demarrage.png"><img src="captures/demarrage.png" width="280" alt="Sans source"></a><br>
       <b>Sans source</b><br>
@@ -65,10 +77,9 @@ Version actuelle : **1.5.0**.
       <b>À propos</b><br>
       <sub>Version + mises à jour intégrées</sub>
     </td>
+    <td></td>
   </tr>
 </table>
-
-> 🗓️ Le **Guide (EPG)** sera ajouté après une passe de polish (M18).
 
 ## 🛠️ Installation
 
