@@ -1,0 +1,4 @@
+# L'APK est distribué via les GitHub Releases, pas versionné dans le repo.
+*.apk
+*.aab
+.DS_Store
