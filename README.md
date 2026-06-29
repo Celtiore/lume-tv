@@ -13,7 +13,7 @@ guide des programmes (EPG), favoris, contrôle parental.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeTV-x.y.z.apk`.
 
-Version actuelle : **1.5.0**.
+Version actuelle : **1.6.5**.
 
 ## ✨ Fonctionnalités
 
@@ -97,7 +97,7 @@ source inconnue** :
    - par **`adb`** depuis un ordinateur :
      ```bash
      adb connect <ip-de-la-tv>:5555
-     adb install -r LumeTV-1.5.0.apk
+     adb install -r LumeTV-x.y.z.apk
      ```
 3. Lance **LumeTV** et ajoute ta source.
 
