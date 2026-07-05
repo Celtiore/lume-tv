@@ -29,8 +29,6 @@ Version actuelle : **1.6.6**.
 
 ## 📸 Captures
 
-![Aperçu de LumeTV](captures/mosaique.png)
-
 <table>
   <tr>
     <td align="center" width="333">
