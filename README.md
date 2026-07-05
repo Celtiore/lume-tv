@@ -51,32 +51,28 @@ Version actuelle : **1.6.6**.
   </tr>
   <tr>
     <td align="center">
-      <a href="captures/epg-fiche.png"><img src="captures/epg-fiche.png" width="280" alt="Fiche programme"></a><br>
-      <b>Fiche programme</b><br>
-      <sub>Synopsis · horaires · « Regarder »</sub>
-    </td>
-    <td align="center">
       <a href="captures/ajout-source.png"><img src="captures/ajout-source.png" width="280" alt="Ajout d'une source"></a><br>
       <b>Ajouter une source</b><br>
       <sub>URL M3U · Xtream · fichier local</sub>
     </td>
     <td align="center">
-      <a href="captures/reglages.png"><img src="captures/reglages.png" width="280" alt="Réglages"></a><br>
-      <b>Réglages</b><br>
-      <sub>Apparence · lecture · parental · Drive</sub>
+      <a href="captures/controle-parental.png"><img src="captures/controle-parental.png" width="280" alt="Contrôle parental"></a><br>
+      <b>Contrôle parental</b><br>
+      <sub>Code PIN · verrouillage de catégories</sub>
+    </td>
+    <td align="center">
+      <a href="captures/sauvegarde-drive.png"><img src="captures/sauvegarde-drive.png" width="280" alt="Sauvegarde Drive"></a><br>
+      <b>Sauvegarde Drive</b><br>
+      <sub>Exporter / importer la config sur ton Drive</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="captures/demarrage.png"><img src="captures/demarrage.png" width="280" alt="Sans source"></a><br>
-      <b>Sans source</b><br>
-      <sub>Raccourci pour démarrer</sub>
-    </td>
     <td align="center">
       <a href="captures/apropos.png"><img src="captures/apropos.png" width="280" alt="À propos"></a><br>
       <b>À propos</b><br>
       <sub>Version + mises à jour intégrées</sub>
     </td>
+    <td></td>
     <td></td>
   </tr>
 </table>
