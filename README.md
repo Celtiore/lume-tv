@@ -13,7 +13,7 @@ guide des programmes (EPG), favoris, contrôle parental.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeTV-x.y.z.apk`.
 
-Version actuelle : **1.6.23**.
+Version actuelle : **1.6.24**.
 
 ## ✨ Fonctionnalités
 
@@ -26,6 +26,7 @@ Version actuelle : **1.6.23**.
 - 🎚️ **Réglages lecture** : ratio, sous-titres, tampon, sortie audio
 - 🔄 **Mises à jour intégrées** (depuis les Releases GitHub)
 - ☁️ **Sauvegarde Google Drive** (dossier privé de l'app, tout compte Google)
+- Passerelle d'identifiants vers LumeVOD et LumeSeries (1.6.24) : les deux apps importent la source Xtream de LumeTV en un OK, sans saisie.
 
 ## 📸 Captures
 
