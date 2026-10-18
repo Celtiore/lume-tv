@@ -13,7 +13,7 @@ guide des programmes (EPG), favoris, contrôle parental.
 
 ➡️ **[Dernière version (Releases)](../../releases/latest)** — télécharge le fichier `LumeTV-x.y.z.apk`.
 
-Version actuelle : **1.7.2**.
+Version actuelle : **1.7.5**.
 
 ## ✨ Fonctionnalités
 
